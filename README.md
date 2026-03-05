@@ -36,7 +36,7 @@ sudo shutdown -h +$minutos
 # Salida esperada
 ```El equipo se apagará en 5 minutos... ```
 
-
+---
 
 
 
