@@ -27,7 +27,8 @@ echo "El equipo se apagará en $minutos minutos..."
 
 sudo shutdown -h +$minutos
 ```
-<img width="802" height="186" alt="image" src="https://github.com/user-attachments/assets/bc177e05-53ae-4ea3-812c-33d6da0dc425" />
+! <img width="802" height="186" alt="image" src="https://github.com/user-attachments/assets/bc177e05-53ae-4ea3-812c-33d6da0dc425" />
+
 # Permisos de ejecucion
 ```chmod +x apagar.sh```
 # Ejecucion
