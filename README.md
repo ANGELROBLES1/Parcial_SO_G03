@@ -1,5 +1,5 @@
-## Parcial_SO_G03
-## Script de apagado programado
+# Parcial_SO_G03
+# Script de apagado programado
 
 1. Cree un archivo de script llamado apagar.sh que permita programar el apagado del equipo
 desde la terminal; el script debe recibir como parámetro un número entero que representa la
